@@ -139,10 +139,10 @@ const Resume = () => {
             align="center"
             className={classes.subtitle1}
           >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero quas
-            ipsa, laudantium totam perferendis possimus voluptatibus tenetur.
-            Quasi voluptatibus, nam vitae eaque ad, officia laboriosam
-            repudiandae, rerum necessitatibus nisi mollitia.
+            Responsable dans la preparation du cours Algorithme, Pyhon et le language de
+            programmation graphique Scratch.
+            Travaille en équipe et division de tâche.
+            Responsable coaching en Algorithme et le language de programmation Python
           </Typography>
         </Box>
         <Typography
@@ -167,10 +167,9 @@ const Resume = () => {
             align="center"
             className={classes.subtitle1}
           >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero quas
-            ipsa, laudantium totam perferendis possimus voluptatibus tenetur.
-            Quasi voluptatibus, nam vitae eaque ad, officia laboriosam
-            repudiandae, rerum necessitatibus nisi mollitia.
+            Intégration de l’application sous React js.
+            Apprentissage du nouveau téchnologie et intégration immédiat dans le projet (Redux).
+            Mise en place de la fonctionnalitée avec node js en utilisant le Framework express js.
           </Typography>
         </Box>
         <Typography
@@ -195,10 +194,9 @@ const Resume = () => {
             align="center"
             className={classes.subtitle1}
           >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero quas
-            ipsa, laudantium totam perferendis possimus voluptatibus tenetur.
-            Quasi voluptatibus, nam vitae eaque ad, officia laboriosam
-            repudiandae, rerum necessitatibus nisi mollitia.
+            Installation CMS (Wordpress & Prestashop).
+            Mise en place de la fonctionnalitée sous le Framework CodeIngiter & Laravel.
+            Intégrations du site from scratch avec html, css, et JavaScript pure – Corréction et refont du site.
           </Typography>
         </Box>
       

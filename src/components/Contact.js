@@ -68,11 +68,11 @@ const Contact = () => {
       <Grid container justify="center">
         <Box component="form" className={classes.form}>
           <Typography variant="h5" className={classes.heading}>
-            Hire or Contact me...
+            Pour me contacter
           </Typography>
           <InputField
             fullWidth={true}
-            label="Name"
+            label="Nom"
             variant="outlined"
             inputProps={{ className: classes.input }}
           />
@@ -97,7 +97,7 @@ const Contact = () => {
             endIcon={<Send />}
             className={classes.button}
           >
-            Contact Me
+            CONTACT-MOI
           </Button>
         </Box>
       </Grid>
